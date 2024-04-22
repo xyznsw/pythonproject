@@ -1,5 +1,5 @@
-# this is a log in program for python soa assessments
-# created by Yizhi Xie, student ID 881263248, on 12-11-2023
+# this is a log in program
+# created by xyznsw, on 12-11-2023
 # version 1.0
 
 
